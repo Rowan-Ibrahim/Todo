@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    color: white;
+}
+.card{
+background-color:#333;
+color: white;
+}
+.none{
+    display: none;
+}
+.check{
+    background-color: grey;
+    text-decoration: line-through;
+}
